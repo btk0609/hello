@@ -16,7 +16,7 @@ class Box3
 		b1.length=18.2;
 		b1.breadth=12.2;
 		b2.height=14.4;
-		b2.lenght=17.5;
+		b2.length=17.5;
 		b2.breadth=19.3;
 		area1=(2*b1.height*b1.length*b1.breadth);
 		area2=(2*b2.height*b2.length*b2.breadth);
@@ -24,3 +24,4 @@ class Box3
 		System.out.println("area2:"+area2);
 	}
 }
+
