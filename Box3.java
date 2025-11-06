@@ -22,8 +22,9 @@ class Box3
 		area2=(2*b2.height*b2.length*b2.breadth);
 		System.out.println("area1:"+area1);
 		System.out.println("area2:"+area2);
-		System.out.println("hello world")
+		System.out.println("hello world");
 	}
 }
+
 
 
